@@ -22,4 +22,6 @@
 * Mobile chargers
 * Wallet
 
-![My University](https://www.honorsociety.org/sites/default/files/uni-campus-19509)
+[Link of AboutMe.md](https://github.com/Harathikatta/assignment2-katta/blob/main/AboutMe.md)
+
+
