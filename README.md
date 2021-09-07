@@ -36,3 +36,10 @@ The Table contains information about the Food item, location available and its p
 | 3 | Fries | Chich Fil-A | $6.00 |
 | 4 | nuggets | Chich Fil-A | $5.80 |
 
+---
+### My Favourite Quotes
+>Be the kind of a girl people read books about. *~Keerthana*<br>
+>And now that you dont have to be perfect, you can be good.*~John Steinbeck*
+
+
+
