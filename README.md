@@ -39,6 +39,7 @@ The Table contains information about the Food item, location available and its p
 ---
 ### My Favourite Quotes
 >Be the kind of a girl people read books about. *~Keerthana*<br>
+
 >And now that you dont have to be perfect, you can be good.*~John Steinbeck*
 
 
