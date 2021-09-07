@@ -7,8 +7,18 @@
 
 ---
 #### Directions to Chicago
-1. Start from Maryville to Kansas International Airport
-    1. By Road
-2. Board the flight to Chicago
-3. we can reach Chicago in an hour.
+1. We can go by Airways or by Road.
+2. Flight Jouney
+    1. Start from Maryville to Kansas International Airport.
+    2. Board the flight to Chicago
+    3. we can reach Chicago in an hour.
+3. By Road
+    1. Go by car, we can use Maps and can go in 7 hours.
 ---
+##### Items to take to my Favourite place
+* Food
+    * Snacks
+    * Cool Drinks
+* Mobile chargers
+* Wallet
+[My University](https://www.honorsociety.org/sites/default/files/uni-campus-19509)
