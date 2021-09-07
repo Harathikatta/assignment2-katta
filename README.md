@@ -24,5 +24,15 @@
 
 [Link of AboutMe.md](https://github.com/Harathikatta/assignment2-katta/blob/main/AboutMe.md)
 
+---
+#### Food Items Table
 
+The Table contains information about the Food item, location available and its price. 
+
+| S.No | Food Item | Location | Price |
+| --- | --- | --- | ---: |
+| 1 | CFA | Chich Fil-A | $4.80 |
+| 2 | Spicy | Chich Fil-A | $4.80 |
+| 3 | Fries | Chich Fil-A | $6.00 |
+| 4 | nuggets | Chich Fil-A | $5.80 |
 
