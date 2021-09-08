@@ -14,7 +14,7 @@
     3. we can reach Chicago in an hour.
 3. By Road
     1. Go by car, we can use Maps and can go in 7 hours.
----
+
 ##### Items to take to my Favourite place
 * Food
     * Snacks
