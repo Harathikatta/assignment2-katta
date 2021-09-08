@@ -61,8 +61,7 @@ void prim() {
         int v = -1;
         for (int j = 0; j < n; ++j) {
             if (!selected[j] && (v == -1 || min_e[j].w < min_e[v].w))
-                v = j;
-        }
+                v = j; }
         if (min_e[v].w == INF) {
             cout << "No MST!" << endl;exit(0);s}
         selected[v] = true; total_weight += min_e[v].w;
