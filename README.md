@@ -46,7 +46,6 @@ The Table contains information about the Food item, location available and its p
 > ### Spanning Tree: <br>
 > A spanning tree is a subset of Graph G, which has all the vertices covered with minimum possible number of edges.
 [Definition Link](https://www.tutorialspoint.com/data_structures_algorithms/spanning_tree.htm)
-
 ```
 int n;
 vector<vector<int>> adj; // adjacency matrix of graph
